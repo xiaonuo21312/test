@@ -1,6 +1,10 @@
+#开放原子开源基金会首个捐赠项目
+
+XuperCore是百度超级链XuperChain内核技术，也是开放原子开源基金会首个开源项目，致力于打造“更快、更通用、更好用” 的区块链底层技术，推动行业创新和应用落地。
+
 # XuperCore
 
-开放原子超级链内核XuperCore，定位为广域适用、高可扩展、超高性能、高度易用，并且完全自由开放的区块链通用内核框架。基于自主研发的“动态内核技术”，实现无内核代码侵入的自由扩展内核核心组件和轻量级的扩展订制内核引擎，满足面向各类场景的区块链实现的需要；并且提供了全面的、高性能的标准内核组件和引擎实现。全面降低区块链研发成本，实现非常轻量级的订制满足特定场景的区块链实现。XuperCore是超级链XuperChain的基础内核，基于XuperCore构建的区块链标准发行版XuperChain，在多行业、多场景得到了落地应用验证。
+开放原子超级链内核XuperCore，定位为广域适用、高可扩展、超高性能、高度易用，并且完全自由开放的区块链通用内核框架。基于百度自主研发的“动态内核技术”，您可以根据不同业务场景快速搭建自己的区块链。我们提供完备和高性能的标准内核组件和引擎实现，全面降低区块链研发成本，实现非常轻量级的订制满足特定场景的区块链实现。XuperCore是百度超级链XuperChain的基础内核，基于XuperCore构建的区块链标准发行版XuperChain，在多行业、多场景得到了落地应用验证，已服务1000多家企业。
 
 ## 特点
 
@@ -39,7 +43,7 @@ XuperCore提供了自动生成区块链发行版代码框架的工具，可以�
 
 ```
 // clone项目
-git clone https://github.com/xuperchain/xupercore.git
+git clone https://github.com/OpenAtomFoundation/xupercore.git
 
 // 生成发行版代码框架，第一个参数是新链名，第二个参数是输出代码库保存目录
 sh ./tools/autogen_chain.sh -n turbo -r bob -o /home/rd/gopath/src
@@ -92,7 +96,7 @@ sh ./control.sh start
 
 # 参与贡献
 
-XuperCore在持续建设阶段，欢迎感兴趣的同学一起参与贡献，可参考[设计揭秘](https://mp.weixin.qq.com/s/pLQq_Qw8XyXJihEOXWv8Gg)。
+XuperCore在持续建设阶段，欢迎感兴趣的同学一起参与贡献，可参考[开放原子超级链动态内核XuperCore核心技术揭秘](https://mp.weixin.qq.com/s/pLQq_Qw8XyXJihEOXWv8Gg)。
 
 如果你遇到问题或需要新功能，欢迎创建[issue](https://github.com/xuperchain/xupercore/issues)。
 
@@ -106,4 +110,4 @@ XuperCore使用的Apache 2.0开源协议，目前已捐赠到了开放原子开�
 
 # 联系我们
 
-Email：xchain-help@baidu.com，如果你对XuperCore开源技术及应用感兴趣，欢迎关注"百度超级链"公众号。
+Email：xchain-help@baidu.com，如果你对XuperCore开源技术及应用感兴趣，欢迎添加超级链小助手微信（XuperChain-Help01）或关注"XuperChain开源社区"公众号。
