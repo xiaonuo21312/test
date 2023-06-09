@@ -129,3 +129,6 @@ https://xuper.baidu.com/n/ps/opensource
 关注“XuperChain开源社区”微信公众号或添加XuperChain小助手微信XuperChain-Help01，了解更多详细信息。
 
 欢迎大家积极报名，预祝大家在大赛中取得优秀成绩！
+
+报名链接：
+https://competition.atomgit.com/competitionInfo?id=3b610340d9f211edbbe2034dcbecef97
