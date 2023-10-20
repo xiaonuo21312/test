@@ -208,7 +208,7 @@
     a. 基础任务：按照任务要求进行开发即可；
     b. 进阶任务：
         i. 按照任务要求在认领任务时 fork 的代码仓库（repo）中新建 RFC（Request for Comments），并对任务进行技术方案设计；
-        ii. 10月30日前将 RFC 以 Pull Request(PR) 形式提交至任务代码仓库（repo），并按模板发送邮件至 ext_xupercore@baidu.com 提交；
+        ii. 将 RFC 以 Pull Request(PR) 形式提交至任务代码仓库（repo），并按模板发送邮件至 ext_xupercore@baidu.com 提交；
         iii. 大赛评审组将在每个任务提交的所有有效方案中选择一个最佳方案，确认为本任务的 Leading Developer，并在开发方向上进行一定的指导，完善后的技术方案将会共享给所有任务提交小组，推荐大家基于最佳方案进行相应开发；
     c. 开放性任务：按照任务要求进行开发即可；
 5. 任务提交：完成项目开发后，
