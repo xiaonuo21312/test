@@ -32,7 +32,7 @@ require (
 	github.com/multiformats/go-multiaddr v0.3.1
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.1.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/spf13/cobra v1.0.0
 	github.com/spf13/viper v1.6.2
 	github.com/syndtr/goleveldb v1.0.1-0.20200815110645-5c35d600f0ca
@@ -41,7 +41,7 @@ require (
 	github.com/xuperchain/log15 v0.0.0-20190620081506-bc88a9198230
 	github.com/xuperchain/xvm v0.0.0-20210126142521-68fd016c56d7
 	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
-	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
+	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
 	google.golang.org/grpc v1.35.0
 )
 
