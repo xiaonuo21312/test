@@ -13,8 +13,8 @@ require (
 	github.com/fsouza/go-dockerclient v1.6.0
 	github.com/gammazero/deque v0.1.0
 	github.com/gogo/protobuf v1.3.2
-	github.com/golang/protobuf v1.4.3
-	github.com/golang/snappy v0.0.3
+	github.com/golang/protobuf v1.5.3
+	github.com/golang/snappy v0.0.4
 	github.com/google/gofuzz v1.1.1-0.20200604201612-c04b05f3adfa // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.2
 	github.com/hashicorp/golang-lru v0.5.4
@@ -40,9 +40,9 @@ require (
 	github.com/xuperchain/crypto v0.0.0-20211221122406-302ac826ac90
 	github.com/xuperchain/log15 v0.0.0-20190620081506-bc88a9198230
 	github.com/xuperchain/xvm v0.0.0-20210126142521-68fd016c56d7
-	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
-	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
-	google.golang.org/grpc v1.35.0
+	golang.org/x/crypto v0.0.0-20211108221036-ceb1ce70b4fa
+	golang.org/x/sync v0.1.0
+	google.golang.org/grpc v1.56.3
 )
 
 replace github.com/hyperledger/burrow => github.com/xuperchain/burrow v0.30.6-0.20211229032028-fbee6a05ab0f
