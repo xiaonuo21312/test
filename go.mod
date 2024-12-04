@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/ChainSafe/go-schnorrkel v0.0.0-20200626160457-b38283118816 // indirect
-	github.com/aws/aws-sdk-go v1.32.4
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/btcsuite/btcutil v0.0.0-20190425235716-9e5f4b9a998d
 	github.com/dgraph-io/badger/v3 v3.2103.1
 	github.com/docker/go-connections v0.4.1-0.20180821093606-97c2040d34df // indirect
